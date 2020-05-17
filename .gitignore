@@ -1,0 +1,9 @@
+# Python files
+*.pyc
+__pycache__/
+
+# PyCharm files
+.idea/
+
+# .env file
+.env
